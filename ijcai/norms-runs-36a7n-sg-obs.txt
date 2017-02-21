@@ -1,0 +1,2008 @@
+('d', 'eventually', '1')
+('o', 'never', 'p')
+('a', 'never', 'l')
+('f', 'not next', '2')
+('e', 'next', 'b')
+('0', 'not next', 'y')
+('f', 'next', 'u')
+
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z'] bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z'] bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't'] bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't'] bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z'] bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z'] bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'l', 's', 'm', 'y'] bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] bayesian_norm_detector inferred: compliant truth: compliant TP

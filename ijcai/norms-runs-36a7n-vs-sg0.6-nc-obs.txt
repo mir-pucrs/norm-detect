@@ -1,0 +1,2008 @@
+('d', 'eventually', '1')
+('o', 'never', 'p')
+('a', 'never', 'l')
+('f', 'not next', '2')
+('e', 'next', 'b')
+('0', 'not next', 'y')
+('f', 'next', 'u')
+
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'y', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'l', '!', 's', 'm', 'y'] data_mining_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] data_mining_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] data_mining_norm_detector inferred: violating truth: compliant FN

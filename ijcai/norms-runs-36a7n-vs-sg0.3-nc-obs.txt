@@ -1,0 +1,2008 @@
+('d', 'eventually', '1')
+('o', 'never', 'p')
+('a', 'never', 'l')
+('f', 'not next', '2')
+('e', 'next', 'b')
+('0', 'not next', 'y')
+('f', 'next', 'u')
+
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'y', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'l', '!', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'y', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'y', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'l', '!', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 's', '!', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'y', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'y', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'y', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'y', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'l', '!', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'y', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 's', '!', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'l', '!', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'l', '!', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'y', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'e', 's', '!', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'l', '!', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 's', '!', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'l', '!', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'y', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'l', '!', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'y', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'l', '!', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'l', '!', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'y', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 's', '!', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'y', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'y', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 's', '!', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 's', '!', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'y', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'l', '!', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 's', '!', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'l', '!', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'y', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 's', '!', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'l', '!', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'y', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'y', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'y', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'y', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'e', 's', '!', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'l', '!', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'y', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'y', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 's', '!', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'y', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'l', '!', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 's', '!', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'l', '!', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'l', '!', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 's', '!', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'l', '!', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'l', '!', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 's', '!', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'l', '!', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'l', '!', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 's', '!', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 's', '!', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 's', '!', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'l', '!', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'y', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'y', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 's', '!', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'y', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'y', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'y', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 's', '!', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'y', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'l', '!', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'y', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'l', '!', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'y', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 's', '!', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'y', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'y', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'l', '!', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'y', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 's', '!', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'y', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'l', '!', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'e', 's', '!', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'y', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'y', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'r', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'l', '!', 's', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'z', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'e', 's', '!', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 'h', '1'] hierarchical_bayesian_norm_detector inferred: violating truth: compliant FN
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', '3'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'd', 't', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'e', 's', '!', 'm', 'y'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'e', 'b', 'q', 'y'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'g', 'k', 'x'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'y', '!'] hierarchical_bayesian_norm_detector inferred: violating truth: violating TN
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'f', 'u'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'o', 'c', 'z'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', '0', 'j', 't'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
+['a', 'w'] hierarchical_bayesian_norm_detector inferred: compliant truth: compliant TP
