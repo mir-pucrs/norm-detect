@@ -32,9 +32,10 @@ class PerfectNormDetector(norm_detector):
     
     def get_norm_hypotheses(self):
         return self.scenario.norms
-    
-    def count_violations(self, plan, norms):
-        return (0,0)
+
+    # TODO Check that there was a reason to return 0 here.
+    # def count_violations(self, plan, norms):
+    #     return (0,0)
     
 class HalfPerfectNormDetector(PerfectNormDetector):
     
